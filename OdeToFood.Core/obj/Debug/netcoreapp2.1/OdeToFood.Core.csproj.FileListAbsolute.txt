@@ -1,0 +1,7 @@
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\rey.perez\source\repos\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
